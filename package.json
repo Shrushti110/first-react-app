@@ -1,0 +1,10 @@
+{
+    "name": "cadburry",
+    "version": "1.0.0",
+    "scripts": {
+        "start": ""
+    },
+    "dependencies": {
+        "react": "^18.3.1"
+    }
+}
